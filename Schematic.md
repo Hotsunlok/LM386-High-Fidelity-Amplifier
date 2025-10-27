@@ -7,7 +7,7 @@ Designed and simulated in **KiCad 8.0**, it demonstrates a clean analog layout s
 
 ### 🔹 Circuit Diagram
 
-![Schematic Diagram](/images/schematic_pcb.jpg)
+![Schematic Diagram](/images/schmatic_pcb.jpg)
 
 The schematic includes:
 
@@ -21,7 +21,7 @@ The schematic includes:
 
 ### 🔹 Component Footprint Reference
 
-![Amplifier Footprints](/images/amplifier_footprint.jpg)
+![Amplifier Footprints](/images/amplifer_footprint.jpg)
 
 This diagram illustrates how each component (resistors, capacitors, IC, and terminal blocks) corresponds to its **PCB footprint** for accurate placement during board routing.
 
@@ -30,5 +30,3 @@ This diagram illustrates how each component (resistors, capacitors, IC, and term
 🧠 *This schematic follows standard analog amplifier design practice, ensuring stable gain, clean signal output, and compact PCB layout implementation.*
 
 ---
-
-Would you like me to make a **small summary table** of the main components (like LM386, 10 kΩ potentiometer, 100 µF cap, etc.) at the bottom for clarity? It makes the repo feel more complete for readers who aren’t electronics experts.
